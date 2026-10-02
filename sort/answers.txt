@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: It was the slowest int the random case. However It was relative fast in the sorted case, that prove the big Omega notation is n of the bubble sort.
+
+sort2 uses: Merge Sort
+
+How do you know?: It was definetly the fastest of them. In all of the cases It takes less than one second.
+
+sort3 uses: Selection Sort
+
+How do you know?: This algorithm take almost the same time in the worst and the bast case, the selection sort has the same big O and big Omega notation. It is n square.
